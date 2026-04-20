@@ -1,7 +1,7 @@
 # What is Networking?
 
 **TryHackMe · Pre Security Path · Room Writeup**  
-**Medium:** https://medium.com/@wzia/what-is-networking-from-traffic-lights-to-mac-spoofing-d2604094696e
+**Medium:** [Full writeup](https://medium.com/@wzia/what-is-networking-from-traffic-lights-to-mac-spoofing-d2604094696e)
 
 `#Networking` `#CyberSecurity` `#TryHackMe` `#BlueTeam`
 
