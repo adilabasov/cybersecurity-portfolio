@@ -25,7 +25,7 @@ My goal is to build a career in Blue Team / SOC analysis.
 | Room | Topic |
 |------|-------|
 | [What is Networking?](./writeups/SEC0/introduction-to-cyber-security/what-is-networking.md) | IP & MAC addresses, IPv6, MAC spoofing |
-| Intro to LAN | *Coming soon* |
+| [Intro to LAN] |(./writeups/SEC0/introduction-to-cyber-security/intro-to-lan.md) | LAN Topologies, Switch, Router, Subnetting, ARP and DHCP
 | OSI Model | *Coming soon* |
 | Packets & Frames | *Coming soon* |
 | Extending Your Network | *Coming soon* |
